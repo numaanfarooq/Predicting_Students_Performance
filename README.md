@@ -1,4 +1,5 @@
 ## End to End MAchine Learning Project
+![Student-Performance_Process-flow-chart_noheader](https://github.com/numaanfarooq/Predicting_Students_Performance/assets/144113131/f2efbadf-29a0-44bb-a4bb-5ac63e78a500)
 
 Overview:-
         Welcome to the Student Performance Prediction project repository!
